@@ -35,6 +35,19 @@ Here are some of my comprehensive security audit reports and defense projects, f
     * *Focus:* Content Management Systems, XSS, CSRF, and file upload vulnerabilities.
     * *核心:* 内容管理系统安全、XSS/CSRF及文件上传漏洞挖掘。
 
+
+## 🏆 Vulnerability Research & CVEs / 漏洞挖掘与披露
+
+Successfully identified, documented, and responsibly disclosed multiple high-severity vulnerabilities (CVSS 7.3+) in open-source web applications.
+独立挖掘并负责任地披露了多个开源 Web 系统的高危漏洞，并获得官方 CVE 编号致谢：
+
+- **CVE-2026-4581** | SQL Injection in Simple Laundry System (CVSS: 7.3 High)
+- **CVE-2026-4580** | SQL Injection in Simple Laundry System (CVSS: 7.3 High)
+- **CVE-2026-4579** | SQL Injection in Simple Laundry System (CVSS: 7.3 High)
+- **CVE-2026-3730** | SQL Injection in Free Hotel Reservation System (CVSS: 7.5 High)
+
+*Reporter: [Ysi6701]*
+
 ## 🛠️ Tech Stack & Expertise / 技术栈与专业技能
 
 ### 🛡️ Data-Driven Defense & Anti-Fraud / 数据驱动防御与反欺诈
