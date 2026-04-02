@@ -55,16 +55,16 @@ Successfully identified, documented, and responsibly disclosed multiple high-sev
 
 ### 🛡️ Data-Driven Defense & Anti-Fraud / 数据驱动防御与反欺诈
 - **Big Data Anti-Fraud (大数据反欺诈):** Telecom Anti-Fraud Strategies, Call Detail Record (CDR) Data Analysis. / 具备运营商级海量话单数据分析与电信反欺诈策略构建经验。
-- **Database & Optimization (数据库与性能调优):** Advanced SQL, Large-Scale SQL Performance Optimization. / 精通 SQL 开发及大规模复杂 SQL 查询的性能调优。
-- **Defensive Architecture (防御架构):** Threat Modeling, Host Intrusion Detection Systems (HIDS). / 熟练掌握威胁建模体系，了解主机入侵检测机制。
+- **Database & Optimization (数据库与性能调优):** SQL, Large-Scale SQL Performance Optimization. / 熟悉 SQL 开发及大规模复杂 SQL 查询的性能调优思路。
+- **Defensive Architecture (防御架构):** Threat Modeling, Host Intrusion Detection Systems (HIDS). / 熟悉威胁建模体系，了解主机入侵检测机制。
 
 ### 🔍 Code Auditing & Backend Architecture / 代码审计与后端架构
-- **Development Stack (开发栈):** Java, Spring Framework, Full-stack Web Development. / 扎实的 Java/Spring 后端开发基础与 Web 前后端交互理解能力。
+- **Development Stack (开发栈):** Java, Spring Framework, Full-stack Web Development. / 扎实的 Java/Spring 后端开发基础与基础的 Web 前后端交互理解能力。
 - **White-Box Auditing (白盒审计):** Java Security Auditing, SAST (Semgrep). / 专注于 Java 业务逻辑安全审计，结合 Semgrep 等工具进行静态代码分析。
 
 ### ⚔️ Vulnerability Assessment / 漏洞评估与攻防演练
-- **Web Penetration Testing (Web 渗透):** Web Vulnerability Assessment, WAF Mechanisms & Evasion Scenarios. / 熟悉常见 Web 漏洞机制，深入理解 WAF 防护原理及各类复杂场景下的绕过策略。
-- **Security Tooling (安全工具链):** Burp Suite, SQLMap, Goby. / 熟练运用业界主流的安全测试与漏洞扫描工具集。
+- **Web Penetration Testing (Web 渗透):** Web Vulnerability Assessment, WAF Mechanisms & Evasion Scenarios. / 熟悉常见 Web 漏洞机制，理解 WAF 防护原理及各类复杂场景下的绕过策略。
+- **Security Tooling (安全工具链):** Burp Suite, SQLMap, Goby. / 熟悉运用业界主流的安全测试与漏洞扫描工具集。
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Java_Security-007396?style=flat-square&logo=Java&logoColor=white" />
