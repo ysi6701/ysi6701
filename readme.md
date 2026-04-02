@@ -22,7 +22,10 @@ Here are some of my comprehensive security audit reports and defense projects, f
 * **[Evolving Fraud Defense](https://github.com/ysi6701/evolving-fraud-defense)**
     * *Focus:* Dynamic defense strategies, behavioral analysis, and anti-fraud architecture.
     * *核心:* 动态防御策略、行为分析与反欺诈架构设计。
-* **[Security Audit: Sky Take Out](https://github.com/ysi6701/Security_Audit_Report_Sky_Take_Out)** 🚧 *(Currently Auditing / 审计进行中)*
+* **[SpringBoot Security Audit Playbook](https://github.com/ysi6701/SpringBoot-Security-Audit-Playbook)** 🌱🚧 *(Currently Auditing / 审计进行中)*
+    * *Focus:* A structured "zero-to-one" roadmap for Spring Boot security auditing, providing step-by-step methodological guidance and a specialized auditing mindset for beginners.
+    * *核心:* 从 0 到 1 的 Spring Boot 体系化审计实战指南，手把手引导新手建立从源码分析到漏洞挖掘的完整方法论与审计思维。
+* **[Security Audit: Sky Take Out](https://github.com/ysi6701/Security_Audit_Report_Sky_Take_Out)** 
     * *Focus:* Complex O2O e-commerce logic, payment workflows, and concurrency vulnerabilities.
     * *核心:* 复杂O2O电商逻辑、支付工作流及高并发场景下的安全隐患。
 * **[Security Audit: BigEvent](https://github.com/ysi6701/Security_Audit_Report_BigEvent)**
@@ -71,9 +74,5 @@ Successfully identified, documented, and responsibly disclosed multiple high-sev
   <img src="https://img.shields.io/badge/-WAF_Evasion-D22128?style=flat-square&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square" />
 </p>
-
-## ⚡ Current Focus / 当前动态
-Currently doing a heavy-duty, multi-day white-box audit on the **Sky Take Out** system, dissecting its core business logic and order processing mechanisms.
-目前正处于高强度连轴转状态，对 **苍穹外卖 (Sky Take Out)** 系统进行深度的白盒审计，拆解其核心业务逻辑与订单处理机制。
 
 ---
