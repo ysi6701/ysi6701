@@ -11,7 +11,6 @@ Welcome to my GitHub! I focus on uncovering deep-seated vulnerabilities within c
 
 - 🔍 **White-Box Code Auditing (白盒代码审计):** Deep diving into source code to identify business logic flaws, authorization bypasses, and data consistency issues. / 深入源码剖析，精准定位业务逻辑缺陷、越权漏洞及数据一致性隐患。
 - 🛡️ **Threat Modeling & Fraud Defense (威胁建模与欺诈防御):** Building dynamic defense strategies and leveraging data analysis and simulation to counter automated attacks. / 构建动态防御架构，结合数据分析与演练模拟，对抗自动化攻击与业务欺诈。
-- 💻 **Secure Architecture (安全架构):** Analyzing full-stack web applications, from interactive frontend logic to backend API security, bridging the gap between development and offensive security. / 贯穿前后端交互逻辑与后端API的安全分析，打通开发视角与攻防视角的壁垒。
 
 ## 📂 Featured Research & Audits / 精选项目与审计报告
 
@@ -59,7 +58,7 @@ Successfully identified, documented, and responsibly disclosed multiple high-sev
 - **Defensive Architecture (防御架构):** Threat Modeling, Host Intrusion Detection Systems (HIDS). / 熟悉威胁建模体系，了解主机入侵检测机制。
 
 ### 🔍 Code Auditing & Backend Architecture / 代码审计与后端架构
-- **Development Stack (开发栈):** Java, Spring Framework, Full-stack Web Development. / 扎实的 Java/Spring 后端开发基础与基础的 Web 前后端交互理解能力。
+- **Development Stack (开发栈):** Java, Spring Framework. / 扎实的 Java/Spring 后端开发基础。
 - **White-Box Auditing (白盒审计):** Java Security Auditing, SAST (Semgrep). / 专注于 Java 业务逻辑安全审计，结合 Semgrep 等工具进行静态代码分析。
 
 ### ⚔️ Vulnerability Assessment / 漏洞评估与攻防演练
