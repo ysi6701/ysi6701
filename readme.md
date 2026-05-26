@@ -1,77 +1,90 @@
-# Hi there, I'm ysi6701 👋
+# Hi there, I'm ysi6701
 
-**Code Auditor | Anti-Fraud Strategist**
-**代码审计 | 反欺诈策略**
+Application Security | Java Code Auditing | Business Logic Security  
+应用安全｜Java代码审计｜业务逻辑安全
 
-Welcome to my GitHub! I focus on uncovering deep-seated vulnerabilities within complex business logic and designing evolving defense mechanisms. I believe true security comes from understanding the code and simulating real-world data interactions as deeply as the developers who wrote it.
+I am a graduate student focused on application security, with a strong interest in Java code auditing, authentication/authorization security, and business logic risk analysis.
 
-欢迎来到我的主页！我专注于挖掘复杂业务逻辑中的深层漏洞，并设计动态演进的防御机制。我坚信，真正的安全建立在对底层代码的深刻理解以及对真实数据交互的精准模拟之上。
+我目前主要聚焦于应用安全方向，重点关注 Java 代码审计、认证授权安全以及业务逻辑风险分析。
 
-## 🎯 What I Do / 核心领域
+I prefer to understand security from the perspective of source code, framework behavior, and business workflows, rather than relying only on conventional vulnerability checklists.
 
-- 🔍 **White-Box Code Auditing (白盒代码审计):** Deep diving into source code to identify business logic flaws, authorization bypasses, and data consistency issues. / 深入源码剖析，精准定位业务逻辑缺陷、越权漏洞及数据一致性隐患。
-- 🛡️ **Threat Modeling & Fraud Defense (威胁建模与欺诈防御):** Building dynamic defense strategies and leveraging data analysis and simulation to counter automated attacks. / 构建动态防御架构，结合数据分析与演练模拟，对抗自动化攻击与业务欺诈。
-
-## 📂 Featured Research & Audits / 精选项目与审计报告
-
-Here are some of my comprehensive security audit reports and defense projects, focusing on real-world business scenarios:
-
-以下是我的部分核心项目，主要聚焦于真实复杂业务场景的安全审计与防御架构：
-
-* **[Evolving Fraud Defense](https://github.com/ysi6701/evolving-fraud-defense)**
-    * *Focus:* Dynamic defense strategies, behavioral analysis, and anti-fraud architecture.
-    * *核心:* 动态防御策略、行为分析与反欺诈架构设计。
-* **[SpringBoot Security Audit Playbook](https://github.com/ysi6701/SpringBoot-Security-Audit-Playbook)** 🌱🚧 *(Currently Auditing / 审计进行中)*
-    * *Focus:* A structured "zero-to-one" roadmap for Spring Boot security auditing, providing step-by-step methodological guidance and a specialized auditing mindset for beginners.
-    * *核心:* 从 0 到 1 的 Spring Boot 体系化审计实战指南，手把手引导新手建立从源码分析到漏洞挖掘的完整方法论与审计思维。
-* **[Security Audit: Sky Take Out](https://github.com/ysi6701/Security_Audit_Report_Sky_Take_Out)** 
-    * *Focus:* Complex O2O e-commerce logic, payment workflows, and concurrency vulnerabilities.
-    * *核心:* 复杂O2O电商逻辑、支付工作流及高并发场景下的安全隐患。
-* **[Security Audit: BigEvent](https://github.com/ysi6701/Security_Audit_Report_BigEvent)**
-    * *Focus:* High-concurrency event management, API rate limiting, and interface security.
-    * *核心:* 高并发活动管理、API限流与接口防刷安全。
-* **[Security Audit: Library Management System](https://github.com/ysi6701/Security_Audit_Report_Library_Management_System)**
-    * *Focus:* RBAC permission models, state transitions, and data integrity.
-    * *核心:* RBAC权限模型、状态流转逻辑与数据完整性校验。
-* **[Security Audit: Blog System](https://github.com/ysi6701/Security_Audit_Report_Blog)**
-    * *Focus:* Content Management Systems, XSS, CSRF, and file upload vulnerabilities.
-    * *核心:* 内容管理系统安全、XSS/CSRF及文件上传漏洞挖掘。
-
-
-## 🏆 Vulnerability Research & CVEs / 漏洞挖掘与披露
-
-Successfully identified, documented, and responsibly disclosed multiple high-severity vulnerabilities (CVSS 7.3+) in open-source web applications.
-独立挖掘并负责任地披露了多个开源 Web 系统的高危漏洞，并获得官方 CVE 编号致谢：
-
-- **CVE-2026-4581** | SQL Injection in Simple Laundry System (CVSS: 7.3 High)
-- **CVE-2026-4580** | SQL Injection in Simple Laundry System (CVSS: 7.3 High)
-- **CVE-2026-4579** | SQL Injection in Simple Laundry System (CVSS: 7.3 High)
-- **CVE-2026-3730** | SQL Injection in Free Hotel Reservation System (CVSS: 7.5 High)
-
-*Reporter: [Ysi6701]*
-
-## 🛠️ Tech Stack & Expertise / 技术栈与专业技能
-
-### 🛡️ Data-Driven Defense & Anti-Fraud / 数据驱动防御与反欺诈
-- **Big Data Anti-Fraud (大数据反欺诈):** Telecom Anti-Fraud Strategies, Call Detail Record (CDR) Data Analysis. / 具备运营商级海量话单数据分析与电信反欺诈策略构建经验。
-- **Database & Optimization (数据库与性能调优):** SQL, Large-Scale SQL Performance Optimization. / 熟悉 SQL 开发及大规模复杂 SQL 查询的性能调优思路。
-- **Defensive Architecture (防御架构):** Threat Modeling, Host Intrusion Detection Systems (HIDS). / 熟悉威胁建模体系，了解主机入侵检测机制。
-
-### 🔍 Code Auditing & Backend Architecture / 代码审计与后端架构
-- **Development Stack (开发栈):** Java, Spring Framework. / 扎实的 Java/Spring 后端开发基础。
-- **White-Box Auditing (白盒审计):** Java Security Auditing, SAST (Semgrep). / 专注于 Java 业务逻辑安全审计，结合 Semgrep 等工具进行静态代码分析。
-
-### ⚔️ Vulnerability Assessment / 漏洞评估与攻防演练
-- **Web Penetration Testing (Web 渗透):** Web Vulnerability Assessment, WAF Mechanisms & Evasion Scenarios. / 熟悉常见 Web 漏洞机制，理解 WAF 防护原理及各类复杂场景下的绕过策略。
-- **Security Tooling (安全工具链):** Burp Suite, SQLMap, Goby. / 熟悉运用业界主流的安全测试与漏洞扫描工具集。
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java_Security-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Big_Data_Anti--Fraud-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL_Optimization-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WAF_Evasion-D22128?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square" />
-</p>
+相比只停留在常规漏洞层面，我更关注从源码、框架机制和业务流程出发理解安全问题，并分析其根因与修复方案。
 
 ---
+
+## What I Focus On / 目前主攻方向
+
+- **Java / Spring Security Auditing**  
+  Analyze authentication and authorization flows in Java/Spring applications, including Spring Security misconfigurations, access control flaws, and insecure framework usage.  
+  重点分析 Java / Spring 应用中的认证授权链路，包括 Spring Security 误用、访问控制缺陷与框架级安全问题。
+
+- **Business Logic Security**  
+  Identify horizontal privilege escalation, vertical privilege escalation, sensitive data misuse, and business workflow abuse from real application code.  
+  从真实业务代码中识别水平越权、垂直越权、敏感数据滥用以及业务流程滥用等问题。
+
+- **OAuth / JWT Security**  
+  Review token handling, scope design, trust boundaries, and common misuse patterns in modern authentication systems.  
+  关注现代认证体系中的 Token 使用方式、Scope 设计、信任边界及 OAuth / JWT 常见误用问题。
+
+- **Threat Modeling & Root Cause Analysis**  
+  Understand risks from architecture and workflow perspectives, and turn security findings into actionable remediation advice.  
+  从架构与流程视角理解风险，并将安全问题沉淀为可落地的根因分析与修复建议。
+
+---
+
+## Featured Projects / 代表项目
+
+### [SpringBoot-Security-Audit-Playbook](https://github.com/ysi6701/SpringBoot-Security-Audit-Playbook)
+A structured roadmap for Spring Boot security auditing, covering project structure analysis, Spring Security review, JWT/OAuth concerns, utility-layer risks, and business logic auditing.  
+从 0 到 1 梳理 Spring Boot 安全审计方法，涵盖项目结构分析、Spring Security 审计、JWT/OAuth 风险、工具层风险及业务逻辑审计路径。
+
+### [Security_Audit_Report_Sky_Take_Out](https://github.com/ysi6701/Security_Audit_Report_Sky_Take_Out)
+Security audit practice around business workflows, order/payment logic, and backend access control risks in a real-world Java application.  
+围绕真实 Java 业务系统中的订单/支付流程、后端访问控制及业务逻辑风险进行审计实践。
+
+### [Security_Audit_Report_BigEvent](https://github.com/ysi6701/Security_Audit_Report_BigEvent)
+Focused on API security, authorization design, and business abuse risks in event-management scenarios.  
+聚焦活动管理场景中的接口安全、权限设计与业务滥用风险。
+
+### [Security_Audit_Report_Library_Management_System](https://github.com/ysi6701/Security_Audit_Report_Library_Management_System)
+A security review of permission models, state transitions, and data integrity risks in a management system.  
+针对管理系统中的权限模型、状态流转与数据完整性风险进行系统化审计。
+
+---
+
+## Vulnerability Research / 漏洞研究与披露
+
+I have independently identified and responsibly disclosed multiple vulnerabilities in open-source web applications, including several issues assigned CVE IDs.
+
+我曾独立挖掘并负责任地披露多个开源 Web 应用中的安全问题，其中部分漏洞已获得 CVE 编号。
+
+- CVE-2026-4581
+- CVE-2026-4580
+- CVE-2026-4579
+- CVE-2026-3730
+
+---
+
+## Skills / 技能栈
+
+### Application Security
+- Java
+- Spring / Spring Security
+- Java code auditing
+- Business logic vulnerability analysis
+- Access control review
+- OAuth / JWT security review
+- Threat modeling
+- Root cause analysis
+
+### Security Tooling
+- Burp Suite
+- Semgrep
+- SQLMap
+- Basic vulnerability verification and reporting
+
+### Currently Expanding
+- CI/CD security workflow
+- DevSecOps fundamentals
+- Docker / container security basics
